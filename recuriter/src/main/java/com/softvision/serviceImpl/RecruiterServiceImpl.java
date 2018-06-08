@@ -1,4 +1,4 @@
-package com.softvision.serviceImpl;
+package com.softvision.serviceimpl;
 
 import com.softvision.model.Recruiter;
 

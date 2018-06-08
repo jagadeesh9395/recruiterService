@@ -1,0 +1,5 @@
+
+Ÿ%squid:RedundantThrowsDeclarationCheck"oRemove the declaration of thrown exception 'javax.validation.ValidationException' which is a runtime exception.(€¥ÈF
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¯•ÜØùÿÿÿÿ
+Vsquid:S1118	":Add a private constructor to hide the implicit public one.(ÀßìÃøÿÿÿÿ
